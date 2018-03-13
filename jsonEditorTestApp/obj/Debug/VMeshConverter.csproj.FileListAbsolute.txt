@@ -1,0 +1,10 @@
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\bin\Debug\VMeshConverter.exe.config
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\bin\Debug\VMeshConverter.exe
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\bin\Debug\VMeshConverter.pdb
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\obj\Debug\VMeshConverter.csprojResolveAssemblyReference.cache
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\obj\Debug\jsonEditorTestApp.MainForm.resources
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\obj\Debug\VMeshConverter.Properties.Resources.resources
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\obj\Debug\VMeshConverter.csproj.GenerateResource.Cache
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\obj\Debug\VMeshConverter.csproj.CoreCompileInputs.cache
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\obj\Debug\VMeshConverter.exe
+C:\Users\dimka\Downloads\Converter\jsonEditorTestApp\jsonEditorTestApp\obj\Debug\VMeshConverter.pdb
